@@ -1,4 +1,4 @@
-package TrabalhoII;
+package utils;
 
 public class CoresTerminal {
     // Códigos ANSI para cores
